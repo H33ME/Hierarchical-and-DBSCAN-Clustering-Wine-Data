@@ -66,7 +66,4 @@ This project highlights the strengths of hierarchical clustering when working wi
 
 1. Clone this repository or copy the code files.
 2. Ensure Python 3.8+ and pip are installed.
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
 
